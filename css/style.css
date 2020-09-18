@@ -212,4 +212,13 @@ img {
     flex: 100;
     max-width: 100%;
   }
+  .hero .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 90%;
+  padding: 5px 20px;
+}
 }
